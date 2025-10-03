@@ -1,0 +1,7 @@
+pandas
+snscrape
+networkx
+python-louvain
+matplotlib
+scikit-learn
+tqdm
